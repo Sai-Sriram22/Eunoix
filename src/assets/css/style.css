@@ -1,13 +1,5 @@
 ﻿/*
 * ----------------------------------------------------------------------------------------
-Author       : Syed Ekram
-Template Name: Designpro - Productized Design Agency website template
-Version      : 1.0                                          
-* ----------------------------------------------------------------------------------------
-*/
-
-/*
-* ----------------------------------------------------------------------------------------
 * 01.GLOBAL CSS STYLE
 * 02.COMMON CSS STYLE
 * 03.MENU CSS STYLE
@@ -46,8 +38,8 @@ Version      : 1.0
     --black-color: #070707;
     --border-color: #ff4f01;
     --button-border: #ff4f01;
-    --body-background: #fff6ec;
-    --white-color: #fff;
+    --body-background: #ffffff;
+    --white-color: #ffffff;
 }
 
 * {
