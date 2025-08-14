@@ -14,7 +14,7 @@ const Booking = () => {
                                 <a href="#" className="theme-btn">Book a free call</a>
                             </div>
                             <a href="#">
-                                <img src="/images/logos/logo.png" alt="Logo" title="Logo" />
+                                <img src="/images/logos/logo2.png" alt="Logo" title="Logo" />
                             </a>
                         </SlideUp>
                     </div>
