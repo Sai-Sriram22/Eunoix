@@ -26,7 +26,7 @@ const Header = () => {
                         <div className="logo-outer">
                             <div className="logo">
                                 <a href="#">
-                                    <img src="/images/logos/logo.png" alt="Logo" title="Logo" />
+                                    <img src="/public/images/logos/Final Orange.png" alt="Logo" title="Logo" />
                                 </a>
                             </div>
                         </div>
@@ -35,7 +35,7 @@ const Header = () => {
                                 <div className="navbar-header">
                                     <div className="mobile-logo">
                                         <a href="#">
-                                            <img src="/images/logos/logo.png" alt="Logo" title="Logo" /></a>
+                                            <img src="" alt="Logo" title="Logo" /></a>
                                     </div>
                                     <button type="button" className="navbar-toggle" data-bs-toggle="collapse" data-bs-target=".navbar-collapse">
                                         <span className="icon-bar" />
