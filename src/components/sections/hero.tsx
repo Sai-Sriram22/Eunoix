@@ -8,7 +8,7 @@ const Hero = () => {
                 <div className="row align-items-center">
                     <div className="col-lg-12">
                         <SlideUp className="hero-content position-relative">
-                            <h3><i className="ri-refresh-line" />Subscription. Pause or cancel anytime</h3>
+                            <h3><i className="ri-refresh-line" />We build your brand with ultimate Design Experiance.</h3>
                             <h2>Hire Full-Service Design Agency For A Simple Monthly Fee.</h2>
                             <p>Create your products with top-tier designers at an affordable price. One subscription fee
                                 covers unlimited design requests.</p>
