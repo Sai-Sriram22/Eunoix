@@ -26,7 +26,7 @@ const Header = () => {
                         <div className="logo-outer">
                             <div className="logo">
                                 <a href="#">
-                                    <img src="/public/images/logos/Final Orange.png" alt="Logo" title="Logo" />
+                                    <img src="/images/logos/logo.png" alt="Logo" title="Logo" />
                                 </a>
                             </div>
                         </div>
